@@ -1,0 +1,149 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    margin-top: 8px;
+    display: flex;
+    background-color: rgb(92, 60, 167);
+    height: 85px;
+    gap: 630px;
+}
+.first{
+    color: white;
+    padding-top: 15px;
+    padding-left: 40px;
+}
+.facebook-login{
+    display: flex;
+    justify-content: flex-end;
+    float: right;
+    gap: 20px;
+}
+.second{
+    display: flex;
+    justify-content: center;
+    float: center;
+    padding-top:20px ;
+}
+.second a{
+    color: rgb(97, 151, 240);
+    text-decoration: none;
+}
+.third{
+    float: right;
+    padding-top: 20px;
+}
+.third a{
+    color: rgb(97, 151, 240);
+    text-decoration: none;
+}
+.login{
+    float: left;
+    padding-top: 38px;
+}
+.facebook-login label{
+    color: white;
+}
+.fourth{
+    position: absolute;
+    bottom: 70px;
+    padding-left: 70px;
+}
+.fourth h3{
+    font-size: 25px;
+    padding-bottom: 5px;
+}
+.fifth{
+    display: inline-block;
+    position: absolute;
+    bottom: 375px;
+    left: 800px;
+}
+.fifth h3{
+    font-size: 25px;
+}
+.fifth p{
+    font-size: 20px;
+    position: relative;
+    bottom: 20px;
+}
+.sixth{
+    position: absolute;
+    top:195px;
+    left: 800px;
+}
+.sixth label{
+    display:flex;
+    padding-top: 2px;
+    height: 15px;
+
+}
+.sixth input[type=text]{
+    position: relative;
+    bottom: 25px;
+    padding: 10px;
+    height: 10px;
+    width: 200px;
+    left: 110px;
+    
+    
+}
+.seventh{
+    display: flex;
+    position: relative;
+   top:460px;
+   left: 850px;
+}
+.seventh a{
+    position: relative;
+    top: 15px;
+    right: 10px;
+}
+.eight{
+    display: inline-block;
+    float: right;
+    position: relative;
+    top: 370px;
+    right: 42px;
+}
+.eight label{
+    position: relative;
+    right: 6px;
+}
+.eight select{
+    position: relative;
+    left: 20px;
+    padding: 6px;
+}
+.eight h4{
+    position: relative;
+    bottom: 15px;
+    left: 70px;
+}
+.eight button{
+    position: relative;
+    left: 80px;
+    bottom: 28px;
+    padding: 10px;
+    width: 110px;
+    background-color: rgb(38, 239, 128);
+    border-radius: 9px;
+    border: 1px solid green;
+}
+.ninth{
+    display: inline-block;
+    float: right;
+    position: relative;
+    top: 335px;
+    right: 295px;
+}
+    .ninth label{
+        position: relative;
+        right: 6px;
+    }
+    .ninth select{
+        position: relative;
+        left: 40px;
+        padding: 6px;
+}
